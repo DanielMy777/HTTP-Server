@@ -24,6 +24,11 @@ recieve requests, parse messages, and provide responses.
 
 You can find additional information and instructions in the supplied `API.docx` file.
 
+A screenshot of a simple request -> response procedure (taken from the server's log):
+
+![Capturez](https://user-images.githubusercontent.com/79100490/170476166-5da507e6-1ad0-4234-99a6-f5ca799d15de.PNG)
+
+
 ## ⭐️ Contributors
 
 * Daniel Malky
